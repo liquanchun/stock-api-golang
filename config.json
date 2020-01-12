@@ -1,7 +1,7 @@
 {
   "Port": "3306",
   "DBUserName": "root",
-  "DBPassword": "liqc!@#_518",
+  "DBPassword": "123456",
   "DBIp": "193.112.155.251",
   "DBPort": "3306",
   "DBName": "stock"
