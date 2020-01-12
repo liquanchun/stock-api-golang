@@ -1,8 +1,8 @@
 {
-  "Port": "8848",
+  "Port": "3306",
   "DBUserName": "root",
-  "DBPassword": "123456",
-  "DBIp": "127.0.0.1",
+  "DBPassword": "liqc!@#_518",
+  "DBIp": "193.112.155.251",
   "DBPort": "3306",
-  "DBName": "test"
+  "DBName": "stock"
 }
