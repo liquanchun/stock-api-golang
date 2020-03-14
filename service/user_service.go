@@ -2,10 +2,10 @@
 package service
 
 import (
-	"../models"
-	"../repo"
-	"../utils"
-	"../middleware"
+	"stock-api-golang/models"
+	"stock-api-golang/repo"
+	"stock-api-golang/utils"
+	"stock-api-golang/middleware"
 	// "fmt"
 	// "github.com/spf13/cast"
 	// "log"

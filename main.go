@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./conf"
-	"./route"
+	"stock-api-golang/conf"
+	"stock-api-golang/route"
 	"flag"
 	"github.com/iris-contrib/middleware/cors"
 	"github.com/kataras/iris"

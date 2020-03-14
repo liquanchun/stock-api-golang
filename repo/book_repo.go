@@ -1,8 +1,8 @@
 package repo
 
 import (
-	"../datasource"
-	"../models"
+	"stock-api-golang/datasource"
+	"stock-api-golang/models"
 	"github.com/spf13/cast"
 )
 type BookRepository interface {

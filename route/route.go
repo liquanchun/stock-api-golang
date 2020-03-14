@@ -1,11 +1,11 @@
 package route
 
 import (
-	"../controllers"
+	"stock-api-golang/controllers"
 	"github.com/kataras/iris"
 	"github.com/kataras/iris/mvc"
 	"net/http"
-	"../middleware"
+	"stock-api-golang/middleware"
 )
 
 func InitRouter(app *iris.Application) {

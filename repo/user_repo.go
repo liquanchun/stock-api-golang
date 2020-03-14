@@ -2,9 +2,9 @@
 package repo
 
 import (
-	"../datasource"
-	"../models"
-	"../utils"
+	"stock-api-golang/datasource"
+	"stock-api-golang/models"
+	"stock-api-golang/utils"
 	// "github.com/spf13/cast"
 	"log"
 )

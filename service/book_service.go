@@ -1,8 +1,8 @@
 package service
 
 import (
-	"../models"
-	"../repo"
+	"stock-api-golang/models"
+	"stock-api-golang/repo"
 )
 type BookService interface {
 	GetBookList (m map[string]interface{}) (result models.Result)

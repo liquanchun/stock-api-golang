@@ -1,7 +1,7 @@
 package datasource
 
 import (
-	"../conf"
+	"stock-api-golang/conf"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jinzhu/gorm"
 	"strings"

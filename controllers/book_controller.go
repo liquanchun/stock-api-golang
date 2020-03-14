@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"../models"
-	"../service"
+	"stock-api-golang/models"
+	"stock-api-golang/service"
 	"log"
 	"github.com/kataras/iris"
 	"github.com/spf13/cast"
